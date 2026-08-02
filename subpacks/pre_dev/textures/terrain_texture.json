@@ -1,0 +1,17 @@
+{
+  "resource_pack_name": "light_vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+        "enchanting_table_bottom": {
+            "textures": "textures/entity/enchanting_table"
+        },
+        "enchanting_table_side": {
+            "textures": "textures/entity/enchanting_table"
+        },
+        "enchanting_table_top": {
+            "textures": "textures/entity/enchanting_table"
+        }
+    }
+}

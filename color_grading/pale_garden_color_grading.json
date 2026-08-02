@@ -1,0 +1,42 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:color_grading_settings": {
+    "description": {
+      "identifier": "minecraft:pale_garden_color_grading"
+    },
+    "color_grading": {
+      "midtones": {
+        "contrast": [
+          2,
+          2,
+          2
+        ],
+        "gain": [
+          1,
+          1,
+          1
+        ],
+        "gamma": [
+          2.5,
+          2.5,
+          2.5 
+        ],
+        "offset": [
+          0,
+          0,
+          0
+        ],
+        "saturation": [
+          1,
+          1,
+          1
+        ]
+      },
+      "temperature": {
+        "enabled": false,
+        "temperature": 8000,
+        "type": "color_temperature"
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "format_version": "1.21.80",
+  "minecraft:lighting_settings": {
+    "description": {
+      "identifier": "minecraft:desert_lighting"
+    },
+    "directional_lights": {
+      "orbital": {
+        "sun": {
+          "illuminance": {
+            "0.000000": 100.0,
+            "0.292000": 0.0,
+            "0.291500": 0.01,
+            "0.282000": 1.0,
+            "0.050000": 100.0,
+            "0.709000": 0.0,
+            "0.719000": 1.0,
+            "0.950000": 100.0,
+            "1.000000": 100.0
+          },
+          "color": {
+            "0.717949": "#ffa080",
+            "0.242908": "#ffaf80",
+            "0.140811": "#ffc896",
+            "0.216944": "#ffa96a",
+            "0.314561": "#ffafaf",
+            "0.269504": "#ffaf80",
+            "0.506998": "#ff9e5a",
+            "0.801062": "#ffc896",
+            "1.000000": "#ffc2b3"
+          }
+        },
+        "moon": {
+          "illuminance": {
+            "0.750000": 0.0,
+            "0.000000": 0.0,
+            "0.200000": 0.0,
+            "1.000000": 0.0,
+            "0.225000": 0.4,
+            "0.735000": 0.4
+          },
+          "color": {
+            "0.000000": "#cea2ff",
+            "1.000000": "#c0a3ff"
+          }
+        },
+        "orbital_offset_degrees": 0.0
+      },
+      "flash": {
+        "illuminance": 10.0,
+        "color": "#dea8ff"
+      }
+    },
+    "emissive": {
+      "desaturation": 0.0
+    },
+    "ambient": {
+      "color": "#FFFFFF",
+      "illuminance": 0.02
+    },
+    "sky": {
+      "intensity": 1.0
+    }
+  }
+}

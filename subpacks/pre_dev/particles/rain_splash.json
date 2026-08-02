@@ -1,0 +1,51 @@
+{
+  "format_version": "1.10.0",
+  "particle_effect": {
+    "description": {
+      "identifier": "minecraft:rain_splash_particle",
+      "basic_render_parameters": {
+        "material": "particles_alpha",
+        "texture": "textures/environment/rain_splashing"
+      }
+    },
+    "components": {
+      "minecraft:particle_lifetime_events": {
+        "timeline": {
+          "0.0": "spray"
+        }
+      },
+      "minecraft:emitter_rate_manual": {
+        "max_particles": 300
+      },
+      "minecraft:emitter_initialization": {
+        "creation_expression": "variable.size_uv = Math.random(0.15, 0.20);"
+      },
+      "minecraft:emitter_lifetime_expression": {
+        "activation_expression": 1,
+        "expiration_expression": 0
+      },
+      "minecraft:emitter_shape_point": {
+        "offset": [0,0,0]
+      },
+      "minecraft:particle_initial_speed": 0.0,
+      "minecraft:particle_lifetime_expression": {
+        "max_lifetime": "Math.Random(0.19, 0.21)"
+      },
+      "minecraft:particle_motion_dynamic": {},
+      "minecraft:particle_appearance_billboard": {
+        "size": [
+          "variable.particle_age / variable.particle_lifetime * variable.size_uv",
+          "variable.particle_age / variable.particle_lifetime * variable.size_uv"
+        ],
+        "facing_camera_mode": "emitter_transform_xz",
+        "uv": {
+          "texture_width": 1,
+          "texture_height": 1,
+          "uv": [ 0, 0 ],
+          "uv_size": [ 1, 1 ]
+        }
+      },
+      "minecraft:particle_appearance_lighting": {}
+    }
+  }
+}

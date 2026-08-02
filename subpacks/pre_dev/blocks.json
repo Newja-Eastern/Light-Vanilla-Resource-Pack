@@ -1,0 +1,6 @@
+{
+   "enchanting_table" : {
+      "sound":"stone",
+      "textures":"textures/entity/enchanting_table"
+   }
+}

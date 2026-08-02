@@ -1,0 +1,227 @@
+{
+   "format_version" : "1.20.20",
+   "sound_definitions" : {
+      "close.bamboo_wood_door" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_close"
+         ]
+      },
+      "close.bamboo_wood_fence_gate" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_close"
+         ]
+      },
+      "close.bamboo_wood_trapdoor" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_close"
+         ]
+      },
+      "close.cherry_wood_door" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_close"
+         ]
+      },
+      "close.cherry_wood_fence_gate" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_close"
+         ]
+      },
+      "close.cherry_wood_trapdoor" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_close"
+         ]
+      },
+      "close.fence_gate" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_close"
+         ]
+      },
+      "close.nether_wood_door" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_close"
+         ]
+      },
+      "close.nether_wood_fence_gate" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_close"
+         ]
+      },
+      "close.nether_wood_trapdoor" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_close"
+         ]
+      },
+      "close.wooden_door" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_close"
+         ]
+      },
+      "close.wooden_trapdoor" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_close"
+         ]
+      },
+      "open.bamboo_wood_door" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_open"
+         ]
+      },
+      "open.bamboo_wood_fence_gate" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_open"
+         ]
+      },
+      "open.bamboo_wood_trapdoor" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_open"
+         ]
+      },
+      "open.cherry_wood_door" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_open"
+         ]
+      },
+      "open.cherry_wood_fence_gate" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_open"
+         ]
+      },
+      "open.cherry_wood_trapdoor" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_open"
+         ]
+      },
+      "open.fence_gate" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_open"
+         ]
+      },
+      "open.nether_wood_door" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_open"
+         ]
+      },
+      "open.nether_wood_fence_gate" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_open"
+         ]
+      },
+      "open.nether_wood_trapdoor" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_open"
+         ]
+      },
+      "open.wooden_door" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_open"
+         ]
+      },
+      "open.wooden_trapdoor" : {
+         "category" : "block",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds" : [
+            "sounds/random/door_open"
+         ]
+      },
+      "刘德华-恭喜发财": {
+         "__use_legacy_max_distance" : "true",
+         "category": "music",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds": [
+            {
+            "is3D" : false,
+            "name":"sounds/刘德华-恭喜发财",
+            "stream": true,
+            "loop": true,
+            "volume" : 1.0
+            }
+         ]
+      },
+      "超雄老太": {
+         "__use_legacy_max_distance" : "true",
+         "category": "music",
+         "max_distance" : null,
+         "min_distance" : null,
+         "sounds": [
+            {
+            "is3D" : false,
+            "name":"sounds/超雄老太",
+            "stream": true,
+            "loop": true,
+            "volume" : 1.0
+            }
+         ]
+      }
+   }
+}

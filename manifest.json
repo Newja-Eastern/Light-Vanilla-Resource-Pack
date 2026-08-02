@@ -1,0 +1,29 @@
+{
+   "format_version": 1,
+   "header": {         
+      "description": "§c·警告：此资源包目前为测试阶段，并非正式版！\n§f资源包协议为：MIT\n§b新版内容：§e\n更改了所有木制门、活扳门、栅栏门的音效，优化了资源包内的文件",
+      "name": "§b[Dev]§dLight Vanilla+§r",
+      "uuid": "9ce2755d-cbbd-423e-ba98-f06626d70fcc",
+      "version": [1, 7, 6666],
+      "min_engine_version": [1, 2, 0]
+   },    
+   "modules": [
+      {
+         "description": "§c·警告：此资源包目前为测试阶段，并非正式版！\n§f资源包协议为：MIT\n§b新版内容：§e\n更改了所有木制门、活扳门、栅栏门的音效，优化了资源包内的文件",
+            "type": "resources",
+            "uuid": "675cbb6b-4afe-4c5e-97d6-8fa6f89a04ef",
+            "version": [1, 7, 6666]
+      }
+   ],
+   "capabilities":[
+            "raytraced"
+   ],
+   "subpacks":[
+      {
+         "folder_name":"pre_dev","name":"§m[危险]§c测试环境\n§e包含下个版本可能的测试内容，请谨慎选择§r","memory_tier":1
+      },
+      {
+         "folder_name":"default","name":"§b默认\n§rLight Vanilla+默认外观","memory_tier":1
+      }
+   ]
+}

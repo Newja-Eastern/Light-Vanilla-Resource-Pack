@@ -2,6 +2,6 @@
   "format_version": "1.21.30",
   "minecraft:texture_set": {
     "color": "beacon",
-    "metalness_emissive_roughness_subsurface": "beacon_emissive"
+    "metalness_emissive_roughness_subsurface": "beacon_mer"
   }
 }

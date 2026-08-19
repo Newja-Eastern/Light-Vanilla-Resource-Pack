@@ -1,18 +1,18 @@
 {
    "format_version": 1,
    "header": {         
-      "description": "§c·警告：此资源包目前为测试阶段，并非正式版！\n§f资源包协议为：MIT\n§b新版内容：§e\n新增了杨树木板、门、活板门的纹理，微调了灵动视效的光照强度",
+      "description": "§c·警告：此资源包目前为测试阶段，并非正式版！\n§f资源包协议为：MIT\n§b新版内容：§e\n添加了新的全景图",
       "name": "§b[Dev]§dLight Vanilla+§r",
       "uuid": "9ce2755d-cbbd-423e-ba98-f06626d70fcc",
-      "version": [1, 8, 1],
+      "version": [1, 8, 12],
       "min_engine_version": [1, 2, 0]
    },    
    "modules": [
       {
-         "description": "§c·警告：此资源包目前为测试阶段，并非正式版！\n§f资源包协议为：MIT\n§b新版内容：§e\n新增了杨树木板、门、活板门的纹理，微调了灵动视效的光照强度",
+         "description": "§c·警告：此资源包目前为测试阶段，并非正式版！\n§f资源包协议为：MIT\n§b新版内容：§e\n添加了新的全景图",
             "type": "resources",
             "uuid": "675cbb6b-4afe-4c5e-97d6-8fa6f89a04ef",
-            "version": [1, 8, 1]
+            "version": [1, 8, 12]
       }
    ],
    "capabilities":[
